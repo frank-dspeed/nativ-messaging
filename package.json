@@ -1,0 +1,30 @@
+{
+  "name": "nativ-messaging",
+  "version": "0.0.0-pre1",
+  "description": "ECMAScript Code that helps Installing and Managing NativMessage Hosts.",
+  "main": "nativ-messaging.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --ui tdd --reporter progress --timeout 20000 test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank-dspeed/nativ-messaging.git"
+  },
+  "keywords": [
+    "Nativ",
+    "Messaging",
+    "Host",
+    "Install",
+    "NodeJs",
+    "stdio"
+  ],
+  "author": "Frank Lemanschik <frank@lemanschik.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/frank-dspeed/nativ-messaging/issues"
+  },
+  "homepage": "https://github.com/frank-dspeed/nativ-messaging#readme"
+}
